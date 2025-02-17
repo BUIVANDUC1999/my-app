@@ -1,0 +1,10 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Hello World",
+        "author": "John Doe"
+      }
+    ]
+  }
+  
